@@ -1,0 +1,2 @@
+# learngo
+repo belajar golang
